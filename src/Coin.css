@@ -1,0 +1,12 @@
+.Coin {
+    width: 15em;
+    height: 15em;
+    display: block;
+    margin-bottom: 3em;
+    opacity: 1;
+    transition: all ease 1s;
+}
+
+.none {
+    opacity: 0;
+}
